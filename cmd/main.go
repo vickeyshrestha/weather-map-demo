@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	openweather "openweather/components"
 	"os"
+	openweather "weather-map-demo/components"
 )
 
 func main() {
